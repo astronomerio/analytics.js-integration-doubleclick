@@ -11,7 +11,9 @@
         "ndhoule/each": "^1.0.3",
         "ndhoule/includes": "^1.0.0",
         "ndhoule/pick": "^1.0.2",
-        "ndhoule/keys": "^1.1.1"
+        "ndhoule/keys": "^1.1.1",
+        "ndhoule/extend": "^1.0.1",
+        "ndhoule/includes": "^1.0.0"
     },
     "development": {
         "segmentio/analytics.js-core": "^2.11.1",
