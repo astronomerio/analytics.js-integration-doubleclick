@@ -1,6 +1,6 @@
 {
   "name": "analytics.js-integration-doubleclick",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Analytics.js plugin for doubleclick.",
   "main": "index.js",
   "scripts": {
