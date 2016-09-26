@@ -14,7 +14,6 @@ describe('DoubleClick', function() {
       name: 'u1',
       email: 'u2'
     },
-    pages: {},
     events: {
       'Completed Order': {
         cat: 'eventCat',
