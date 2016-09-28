@@ -1,6 +1,6 @@
-var Analytics = require('analytics.js-core').constructor;
-var sandbox = require('clear-env');
-var tester = require('analytics.js-integration-tester');
+var Analytics = require('@astronomerio/analytics.js-core').constructor;
+var sandbox = require('@segment/clear-env');
+var tester = require('@segment/analytics.js-integration-tester');
 var DoubleClick = require('../lib');
 
 describe('DoubleClick', function() {
