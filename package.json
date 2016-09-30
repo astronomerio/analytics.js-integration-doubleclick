@@ -1,6 +1,6 @@
 {
   "name": "@astronomerio/analytics.js-integration-doubleclick",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Analytics.js plugin for doubleclick.",
   "main": "lib/index.js",
   "scripts": {
